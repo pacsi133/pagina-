@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -146,5 +146,4 @@
             </div>
         </div>
 
-        <div class="producto">
-            <img src="https://source.unsplash
+       
